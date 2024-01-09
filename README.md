@@ -4,7 +4,7 @@
 
 ## Methods
 - Systolic array
-- double
+- double buffer
 
 ## Future Work
 - im2col can be optimized to reduce the amount of transmitted data
